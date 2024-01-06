@@ -1,1 +1,1 @@
-# Library_Management_System
+It manages the records of books, students and the librarian
